@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="cola.h" open="1" top="0" tabpos="2">
+		<Cursor position="1454" topLine="58" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="1307" topLine="29" />
+	</File>
+	<File name="pila.h" open="1" top="1" tabpos="3">
+		<Cursor position="2345" topLine="87" />
+	</File>
+	<File name="src\pila.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="4" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

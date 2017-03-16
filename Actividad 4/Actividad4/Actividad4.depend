@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1456022307 source:c:\users\jorge\documents\actividades de estructura de datos\actividad 4\actividad4\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<stdlib.h>
+	"pila.h"
+	"cola.h"
+
+1455651897 source:c:\users\jorge\documents\actividades de estructura de datos\actividad 4\actividad4\src\pila.cpp
+
+1456022869 c:\users\jorge\documents\actividades de estructura de datos\actividad 4\actividad4\pila.h
+	<iostream>
+
+1456022541 c:\users\jorge\documents\actividades de estructura de datos\actividad 4\actividad4\cola.h
+	<iostream>
+
